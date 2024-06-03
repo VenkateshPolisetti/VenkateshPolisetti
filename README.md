@@ -16,9 +16,13 @@ My goal is to uncover hidden patterns and trends that drive data-driven decision
 
 🔧 Technologies & Tools
 Programming Languages: Python, SQL
+
 Data Visualization: Tableau, Power BI, matplotlib, seaborn
+
 Data Processing: Pandas, NumPy, Excel
+
 Databases: MySQL, PostgreSQL
+
 Other Tools: Git, Jupyter Notebook
 
 📂 Featured Projects
@@ -48,13 +52,18 @@ Analysis of Earthquakes (1904-2014) Worldwide
 This project entailed a comprehensive analysis of earthquake data spanning from 1904 to 2014, aiming to uncover patterns, trends, and insights into seismic activity across the globe. The primary goal was to enhance understanding of earthquake occurrences, their magnitudes, and their geographical distribution to support disaster preparedness and mitigation efforts.
 Tools Used : 
 Programming Languages: Sql
+
 Data Visualization: Tableau
+
 Data Processing: Excel for initial data cleaning and preparation
+
 The Analysis of Earthquakes (1904-2014) Worldwide project provided crucial insights into the patterns and impacts of seismic activity over a century. By leveraging advanced data analysis and visualization techniques, the project not only enhanced the understanding of earthquake dynamics but also offered valuable information for improving earthquake preparedness and response strategies globally. These insights are vital for policymakers, researchers, and disaster management authorities in their ongoing efforts to mitigate the risks associated with earthquakes.
 
 🌱 Current Learning
 Advanced machine learning techniques, going into depth of python libraries 
+
 Interactive data visualizations with D3.js
+
 Enhancing my knowledge in cloud-based data platforms like AWS and Google Cloud
 
 📫 Let's Connect!
