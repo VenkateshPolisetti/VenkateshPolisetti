@@ -33,6 +33,7 @@ Statistical Analysis: EDA
 By leveraging data analysis and visualization, this project provided a deep understanding of employee attrition and offered practical solutions to improve employee retention rates within the organization.
 
 Project Name: Sales of Green Vehicles Data Analysis
+
 This project focused on analyzing sales data for green vehicles (electric, hybrid, and alternative fuel vehicles) to understand market trends, consumer preferences, and factors driving sales growth. The objective was to provide actionable insights that can help manufacturers, dealers, and policymakers make informed decisions to promote the adoption of green vehicles.
 Tools Used : 
 Programming Languages: Sql
@@ -43,6 +44,7 @@ The Sales of Green Vehicles Data Analysis project provided a comprehensive under
 
 Project Name:
 Analysis of Earthquakes (1904-2014) Worldwide
+
 This project entailed a comprehensive analysis of earthquake data spanning from 1904 to 2014, aiming to uncover patterns, trends, and insights into seismic activity across the globe. The primary goal was to enhance understanding of earthquake occurrences, their magnitudes, and their geographical distribution to support disaster preparedness and mitigation efforts.
 Tools Used : 
 Programming Languages: Sql
