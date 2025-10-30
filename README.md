@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a dedicated Data Analyst with a keen interest 
 My goal is to uncover hidden patterns and trends that drive data-driven decision-making.
 
 🚀 About Me
-📊 Data Analyst: With 4 months  of experience in data analysis, I've honed my skills in collecting, processing, and analyzing large datasets to extract actionable insights.
+📊 Data Analyst: With  nearly 1.5 years  of experience in data analysis, I've honed my skills in collecting, processing, and analyzing large datasets to extract actionable insights.
 
 🎨 Data Visualization Expert: I love to create compelling and informative visualizations that tell a story. Tools like Tableau, Power BI, and Python (matplotlib, seaborn) are my go-to for turning complex data into easy-to-understand visuals.
 
