@@ -1,6 +1,6 @@
 👋 Hello, I'm  Venkatesh Polisetti !
 
-🔍 Data Analyst | Data Visualization Enthusiast | Problem Solver
+🔍 Data Analytics Engineer | Data Visualization Enthusiast | Problem Solver
 
 Welcome to my GitHub profile! I'm a dedicated Data Analyst with a keen interest in transforming raw data into meaningful insights and beautiful visualizations.
 My goal is to uncover hidden patterns and trends that drive data-driven decision-making.
